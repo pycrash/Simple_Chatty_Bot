@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Simple Chatty Bot/task/build/
